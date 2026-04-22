@@ -1,4 +1,4 @@
-# H1
+# The Main Pitch-Doog
 Doog is a small-time crook who somehow finds himself trying to lead and
 grow his crew into something bigger—something close to an “empire.”
 
