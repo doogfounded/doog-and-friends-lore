@@ -6,9 +6,9 @@ _PLEASE READ THE GUIDELINES BEFORE ANYTHING ELSE!!!_ Hi and welcome to the first
 
 GUIDELINES (VERY IMPORTANT)
 
-[General Guidelines](general-guidelines-and-rules.md)
+[General Guidelines](guidelines/general-guidelines-and-rules.md)
 
-[Generative AI Guidelines](Guideline-for-using-Generative-AI.md)
+[Generative AI Guidelines](guidelines/Guideline-for-using-Generative-AI.md)
 
 
 quick links:
