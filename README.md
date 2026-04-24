@@ -30,6 +30,8 @@ Try:
 
 [General Guidelines](guidelines/general-guidelines-and-rules.md)
 
+[Cross Media Guidelines](guidelines/cross-media-guidelines.md)
+
 [Generative AI Guidelines](guidelines/Guideline-for-using-Generative-AI.md)
 
 
