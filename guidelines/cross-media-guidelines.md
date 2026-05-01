@@ -45,4 +45,11 @@ in software terms make it portable across different platforms. Here are some gui
 10. Focus on Consequences
 
     At the core, the meaning or themes of this story are about choices, outcomes, and escalation. If you pull request doesn't change
-    anything about the story, it's most likely not needed. 
+    anything about the story, it's most likely not needed.
+
+Bonus Tip:
+
+Try to optimize as much as you can for the specific medium as well while keeping the core story of Doog and Friends and while still using these guidelines to keep consistency so at the very least it feels correct. It sounds contradictory at first but if software devs can work around limits and give you the same experience then this should be possible. 
+
+
+    
