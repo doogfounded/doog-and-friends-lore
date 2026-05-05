@@ -18,11 +18,14 @@ Try:
 * Writing a version of a scene
 * Calling out issues/things that do not fit in the story
 
+See [here](CONTRIBUTING.md) for more info on contributing.
+
 ## When making a pull request make sure to include;
 
 * What you changed
 * Why it improves and progresses the story
 * How it fits the tone of the overall story
+
 
 ## Important folders:
 
