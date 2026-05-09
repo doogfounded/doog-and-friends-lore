@@ -3,6 +3,14 @@
 
 _PLEASE READ THE GUIDELINES BEFORE CONTRIBUTING!!!_ Hi and welcome to the first actual time I'm putting this out there somewhere. This is just a rough outline of the universe for a story (mostly crime drama genre) I've had for a few years. Feel free to make any PRs on what to add or make your own branches of the story. You can also reach out to me either by email, Steam, or Discord (thats doogfounded btw) if you have any other questions or comments regarding Doog and Friends. Thanks for reading!
 
+## TODO (for everyone):
+
+Elaborate more on the different species/races in the story bible. How they would act and behave etc.
+
+Expand more on the world in the /world folder and the Inland Empire. Add more texture and details about it.
+
+Make more clear rules for GenAI useage.
+
 ## Hook:
 
 Set in the Inland Empire of Southern California, Doog is a young yet alienated small time crook who decides to make his own crew that is disorganized and sometimes feels disordered. Despite that he still tries his best to motivate and coordinate the members of his crew to all work together. In the chaos sometimes they succeed and sometimes they do not. Doog and his crew's preseance soon attract both new partners and new enemies in the crime world.
