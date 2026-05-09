@@ -6,7 +6,7 @@ This section discusses and shows how to submit, how to format pull requests, and
 
 ### Submitting
 
-Submitting is easy. Just make a new pull request and write what you want to write. If it does not follow the guidelines set out in /guidelines then your pull request will be accepted and will be closed.
+Submitting is easy. Just make a new pull request and write what you want to write. If it does not follow the guidelines set out in /guidelines then your pull request will be rejected and will be closed.
 
 ### Pull Request Formating
 
