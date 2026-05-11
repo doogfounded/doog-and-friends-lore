@@ -1,3 +1,4 @@
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 # Doog's Rules
 
 These are rules I (Mr. Doog) personally believe should be the way people conduct themselves online. These are just my opinons from some rando (me) on the internet so they are not real rules everyone has to follow nor is it gospel everyone should hear about and it doesn't really actually matter what I or you think about it.
