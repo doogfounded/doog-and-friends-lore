@@ -1,10 +1,10 @@
-# Doog and Friends Code of Conduct
+# Doog's Rules
 
-In order to establish orgainztion, cooperation, productivity, and a sense of coummity throughout making and contributing to Doog and Friends, the community has established this code of conduct everyone must follow all throughout the repo (issues, PRs, discussions, and chat).
+These are rules I (doogfounded) personally believe should be the way people conduct themselves online. These are just my opinons from some rando (me) on the internet so they are not real rules everyone has to follow nor is it gospel everyone should hear about and it doesn't really actually matter what I or you think about it.  
 
 ## 1. Be a decent person (have some decency)
 
-  A. DO NOT ACT FUCKING GAY
+  A. DO NOT ACT OVERLY FUCKING GAY
   
   B. Do not start drama or fights
   
