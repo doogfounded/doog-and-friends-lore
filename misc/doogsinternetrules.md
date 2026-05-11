@@ -1,6 +1,7 @@
 # Doog's Rules
 
-These are rules I (doogfounded) personally believe should be the way people conduct themselves online. These are just my opinons from some rando (me) on the internet so they are not real rules everyone has to follow nor is it gospel everyone should hear about and it doesn't really actually matter what I or you think about it.  
+These are rules I (doogfounded) personally believe should be the way people conduct themselves online. These are just my opinons from some rando (me) on the internet so they are not real rules everyone has to follow nor is it gospel everyone should hear about and it doesn't really actually matter what I or you think about it.
+Hey if it helps you with creating events in the story/repo or things about Doog the character then sure this might be useful.
 
 ## 1. Be a decent person (have some decency)
 
