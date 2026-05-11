@@ -1,6 +1,6 @@
 # Doog and Friends Code of Conduct
 
-In order to establish orgainztion, cooperation, and productivity throughout making and contributing to Doog and Friends, the community has established this code of conduct everyone must follow all throughout the repo.
+In order to establish orgainztion, cooperation, and productivity throughout making and contributing to Doog and Friends, the community has established this code of conduct everyone must follow all throughout the repo (issues, PRs, discussions, and chat).
 
 ## 1. Be a decent person (have some decency)
 
