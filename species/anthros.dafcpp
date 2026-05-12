@@ -1,0 +1,86 @@
+/*This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+*/
+#include humans
+#include animals
+
+// One function to rule them both
+void initialize_anthro() {
+    
+    struct Appearance {
+        string standing = "Bipedal";
+        string features = "Tails, Ears, Pawpads, and Fur";
+    };
+
+    struct Soul {
+        string emotions = "Universal and infinite";
+        string consciousness = "Complex";
+        string self_awareness = "Profound";
+    };
+}
+
+class DogAnthro : public Anthro {
+    animal_base = "Domestic Dog";
+    additional_trait = "Loyalty";
+    heart_rate = float(60.0-140.0); // Average resting heart rate for dogs in beats per minute
+    void react(string event) {
+        if (event == "danger") {
+            this->heart_rate=float(heart_rate * 1.5); // Simulating an increase in heart rate during danger
+            this->adrenaline="Surging";
+            this->behavior="Protective";
+            this->emotions="Heightened";
+            this->consciousness="Focused";
+            this->self_awareness="Heightened";
+            this->actions="Protect the group and alert others";
+        }
+    }
+};
+
+class CatAnthro : public Anthro {
+    animal_base = "Domestic Cat";
+    additional_trait = "Independence";
+    heart_rate = float(140.0-220.0); // Average resting heart rate for cats in beats per minute
+    void react(string event) {
+        if (event == "danger") {
+            this->heart_rate=float(heart_rate * 1.5); // Simulating an increase in heart rate during danger
+            this->adrenaline="Surging";
+            this->behavior="Cautious";
+            this->emotions="Heightened";
+            this->consciousness="Focused";
+            this->self_awareness="Heightened";
+            this->actions="Find a safe hiding spot and observe the situation";
+        }
+    }
+};
+
+class WolfAnthro : public Anthro {
+    animal_base = "Gray Wolf";
+    additional_trait = "Pack Mentality";
+    heart_rate = float(70.0-120.0);
+    void react(string event) {
+        if (event == "danger") {
+            this->heart_rate=float(heart_rate * 0.5);
+            this->adrenaline="Surging";
+            this->behavior="Protective and Coordinated";
+            this->emotions="Heightened";
+            this->consciousness="Focused";
+            this->self_awareness="Heightened";
+            this->actions="Coordinate with pack members to defend against the threat";
+        }
+    }
+class FoxAnthro : public Anthro {
+    animal_base = "Red Fox";
+    additional_trait = "Cunning";
+    heart_rate = float(73.0-125.0);
+    void react(string event) {
+        if (event == "danger") {
+            this->heart_rate=float(heart_rate * 2.0);
+            this->adrenaline="Surging";
+            this->behavior="Evasive and Strategic";
+            this->emotions="Heightened";
+            this->consciousness="Focused";
+            this->self_awareness="Heightened";
+            this->actions="Use cunning tactics to evade the threat and find a safe escape route";
+        }
+    }
+    //Others coming soon...
