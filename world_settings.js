@@ -1,4 +1,4 @@
-// world_settings.conf
+// world_settings.js
 
 ENVIRONMENT {
     gravity = 9.807; // Standard Earth gravity 
