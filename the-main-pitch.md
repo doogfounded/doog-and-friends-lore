@@ -1,6 +1,6 @@
 # The Main Pitch-Doog
 Doog is a small-time crook who somehow finds himself trying to lead and
-grow his crew into something bigger—something close to an “empire.”
+grow his crew into something bigger.
 
 As he and his friends get older, he struggles with the increasing
 responsibilities of their lives and the weight of what they’re building.
