@@ -17,7 +17,7 @@ Set in the modern day United States in a region of Southern California known as 
 
 ## The Weapons
 All the weapons of the real world work as they do well for the most part.
-Shooting rockets, gernades, etc won't directly kill someone but it will do a decent amount of damage. Rocket and gernade jumping is a real thing too. However unlike say TF2 or Quake you will die canonically. There no cannon respawning so to speak but games based on Doog and Friends are allowed for people to respawn for gameplay purposes. Besides that most guns would work the same as the would work in the real world.
+Shooting rockets, gernades, etc won't directly kill someone but it will do a decent amount of damage along with rocket and gernade jumping but it's more closer to stunts in a fighter jet rather than a normal Trans-Alantic flight in a 747. However unlike say TF2 or Quake you will die canonically. There no cannon respawning so to speak but games based on Doog and Friends are allowed for people to respawn for gameplay purposes. Besides that most guns would work the same as the would work in the real world. 
 
 ## Universe Limits/Tone & Themes
 This is story is mostly grounded in reality despite having some odd stuff. It's a primarily serious crime drama with some black comedy for contrast and relief. Actions do have consequtions in this universe with grey areas, permenant death, and lasting conseqences from violence and characters choices. Most things are normal such as how transportation, cities, geography, language, computers, internet, etc.
