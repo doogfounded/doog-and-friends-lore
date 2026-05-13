@@ -1,3 +1,0 @@
-*.dafcpp linguist-language=C++
-*.dafjs linguist-language=JavaScript
-*.md linguist-langauge=Markdown
