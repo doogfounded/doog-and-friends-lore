@@ -1,3 +1,6 @@
+<img width="670" height="385" alt="HAMMM" src="https://github.com/user-attachments/assets/03369270-0cb2-42c2-a8eb-37b866dd8bf4" />
+<img width="282" height="292" alt="soldier loadout" src="https://github.com/user-attachments/assets/29c4d5e5-08b1-41ec-937a-d144e04ff31e" />
+
 # Doog and Friends Lore GitHub
 *An open source crime story in the Inland Empire*
 
