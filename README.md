@@ -4,7 +4,7 @@
 # Doog and Friends Lore GitHub
 *An open source crime story in the Inland Empire*
 
-_PLEASE READ THE GUIDELINES BEFORE CONTRIBUTING!!!_ Hi and welcome to the first actual time I'm putting this out there somewhere. This is just a rough outline of the universe for a story (mostly crime drama genre) I've had for a few years. Feel free to make any PRs on what to add or make your own branches of the story. You can also reach out to me either by email, Steam, or Discord (thats doogfounded btw) if you have any other questions or comments regarding Doog and Friends. Thanks for reading!
+_PLEASE READ THE GUIDELINES BEFORE CONTRIBUTING!!!_ Hi and welcome to the first actual time I'm putting this out there somewhere. This is just a rough outline of the universe for a story (mostly crime drama genre) I've had for a few years. Right now it's quite barebones with no real storyline/timeline and just a few scraps, outlines, and drafts of lore, characters, locations etc. Feel free to make any PRs on what to add or make your own branches of the story. You can also reach out to me either by email, Steam, or Discord (thats doogfounded btw) if you have any other questions or comments regarding Doog and Friends. Thanks for reading!
 
 ## TODO (for everyone):
 
