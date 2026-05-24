@@ -59,4 +59,4 @@ See [here](CONTRIBUTING.md) for more info on contributing.
 
 [The Pitch](the-main-pitch.md)
 
-[Story Bible](story-bible.md)
+[General Architecture](general-architecture.md)
