@@ -1,8 +1,8 @@
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 
-# Story Bible
-## **The Doog and Friends Story Bible establishes conventions, guidelines, and the core universal truths and values of the story and lore of Doog and Friends. Please study and read them carefully. It will also help you and others understand the quirks and limits of the Doog and Friends Universe such as creatures, physics, weapons, etc.**
+# General Architecture 
+## **This dcoument gives you a general overview of the "architecture" of the story and lore of Doog and Friends. Please study and read them carefully. It will also help you and others understand the quirks and limits of the Doog and Friends Universe such as creatures, physics, weapons, etc.**
 
 ### The Creatures
 Doog and Friends has a odd cast of creatures including anthros, humans, bellicosus, and the hybrid anthrbellicous. They all live together all across the world and cooperate with one another (well, mostly). Humans are well just humans. Anthros basically are still just humans but they have the apperence/characteristics of animals (such as tails, ears, pawpads, and fur).  Like humans stand on their twos (just their legs). There are many different types of animals species (mostly mammals including domestic or pets) that Anthro species are based off. Bellicosus are unique human like creatures with beards, gooogly eyes, and helmets (as seen in Doog himself). Anthrbellicous are a mix of Anthros and Bellicosus (which is the exact species Doog is). There is many variations of Bellicosus and Anthrbellicous in the universe with different colors and species.
